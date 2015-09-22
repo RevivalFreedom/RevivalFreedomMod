@@ -1,0 +1,8 @@
+name: RevivalFreedomMod
+main: me.StevenLawson.TotalFreedomMod.TotalFreedomMod
+version: 4.3
+description: JustFreedomMod for the RevivalFreedom Server
+softdepend: [BukkitTelnet, WorldEdit, Essentials]
+authors: [Revival3]
+
+# plugin.yml is no longer used to define commands.
